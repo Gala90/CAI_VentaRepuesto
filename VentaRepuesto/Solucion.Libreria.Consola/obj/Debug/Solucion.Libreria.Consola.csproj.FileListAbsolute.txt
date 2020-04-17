@@ -1,0 +1,7 @@
+C:\Users\Graciela\source\repos\VentaRepuesto\Solucion.Libreria.Consola\obj\Debug\Solucion.Libreria.Consola.csprojAssemblyReference.cache
+C:\Users\Graciela\source\repos\VentaRepuesto\Solucion.Libreria.Consola\obj\Debug\Solucion.Libreria.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\source\repos\VentaRepuesto\Solucion.Libreria.Consola\bin\Debug\Solucion.Libreria.Consola.dll.config
+C:\Users\Graciela\source\repos\VentaRepuesto\Solucion.Libreria.Consola\bin\Debug\Solucion.Libreria.Consola.dll
+C:\Users\Graciela\source\repos\VentaRepuesto\Solucion.Libreria.Consola\bin\Debug\Solucion.Libreria.Consola.pdb
+C:\Users\Graciela\source\repos\VentaRepuesto\Solucion.Libreria.Consola\obj\Debug\Solucion.Libreria.Consola.dll
+C:\Users\Graciela\source\repos\VentaRepuesto\Solucion.Libreria.Consola\obj\Debug\Solucion.Libreria.Consola.pdb
