@@ -12,3 +12,17 @@ C:\Users\Graciela\source\repos\VentaRepuesto\VentaRepuesto\bin\Debug\Solucion.Ne
 C:\Users\Graciela\source\repos\VentaRepuesto\VentaRepuesto\obj\Debug\Solucion.Consola.csproj.CopyComplete
 C:\Users\Graciela\source\repos\VentaRepuesto\VentaRepuesto\obj\Debug\VentaRepuesto.exe
 C:\Users\Graciela\source\repos\VentaRepuesto\VentaRepuesto\obj\Debug\VentaRepuesto.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\VentaRepuesto.exe.config
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\VentaRepuesto.exe
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\VentaRepuesto.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\Solucion.Libreria.Consola.dll
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\Solucion.Negocio.dll
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\Solucion.Libreria.Consola.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\Solucion.Libreria.Consola.dll.config
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\Solucion.Negocio.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\bin\Debug\Solucion.Negocio.dll.config
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\obj\Debug\Solucion.Consola.csprojAssemblyReference.cache
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\obj\Debug\Solucion.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\obj\Debug\Solucion.Consola.csproj.CopyComplete
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\obj\Debug\VentaRepuesto.exe
+C:\Users\Graciela\Documents\GitHub\CAI_VentaRepuesto\VentaRepuesto\VentaRepuesto\obj\Debug\VentaRepuesto.pdb

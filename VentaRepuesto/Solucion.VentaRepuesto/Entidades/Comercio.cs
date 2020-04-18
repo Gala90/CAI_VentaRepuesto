@@ -31,23 +31,24 @@ namespace Solucion.VentaRepuesto.Entidades
 
         public void AgregarRepuesto (Repuesto r)
         {
-            this.Repuestos.Add(r);
+            this._listaProducto.Add(r);
         }
 
         public void QuitarRepuesto(int cod)
         {
-            foreach (Repuesto r in Repuestos)
+            foreach (Repuesto r in _listaProducto)
             {
                 if (r.Codigo == cod)
                 {
                     Repuestos.Remove(r);
+                    break;
                 }
             }
         }
 
         public void ModificarPrecio(int cod, double precio)
         {
-            foreach (Repuesto r in Repuestos)
+            foreach (Repuesto r in _listaProducto)
             {
                 if (r.Codigo == cod)
                 {
@@ -59,7 +60,7 @@ namespace Solucion.VentaRepuesto.Entidades
 
         public void AgregarStock(int cod, int cant)
         {
-            foreach (Repuesto r in Repuestos)
+            foreach (Repuesto r in _listaProducto)
             {
                 if (r.Codigo == cod)
                 {
@@ -70,7 +71,7 @@ namespace Solucion.VentaRepuesto.Entidades
 
         public void QuitarStock(int cod, int cant)
         {
-            foreach (Repuesto r in Repuestos)
+            foreach (Repuesto r in _listaProducto)
             {
                 if (r.Codigo == cod)
                 {
@@ -82,8 +83,8 @@ namespace Solucion.VentaRepuesto.Entidades
         public List<Repuesto> TraerPorCategoria(int cod)
         {
             List<Repuesto> reps = new List<Repuesto>();
-            foreach (Repuesto r in Repuestos)
-            {
+            foreach (Repuesto r in _listaProducto)
+            {                
                 if (r.Categoria.Codigo == cod)
                 {
                     reps.Add(r); 

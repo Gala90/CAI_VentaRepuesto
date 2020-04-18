@@ -134,6 +134,7 @@ namespace VentaRepuesto
             else
             {
                 c.QuitarRepuesto(cod);
+               
             }
         }
 
